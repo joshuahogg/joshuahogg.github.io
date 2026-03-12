@@ -101,7 +101,7 @@ theme = "hugo-blog-awesome"
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "Awesome hugo blog"
   name = "Sidharth R"
-  description = "A fast, minimalistic Hugo theme with light and dark mode support, for running a personal site or blog."
+  description = "An ongoing examination of culture, technology and media. Optimism tempered with a healthy dose or paranoia."
 
 # Allow to override webmanifest options
 [Languages.en-gb.params.webmanifest]
